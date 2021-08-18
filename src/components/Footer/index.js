@@ -8,7 +8,7 @@ function Footer() {
           <a href="https://github.com/marisela-gutierrez" target="_blank" rel="noreferrer">Github</a>
         </li>
         <li>
-          <a href="www.linkedin.com/in/mariselagutierrez" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a href="https://linkedin.com/in/mariselagutierrez" target="_blank" rel="noreferrer">LinkedIn</a>
         </li>
       </ul>
     </footer>
