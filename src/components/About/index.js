@@ -4,8 +4,8 @@ import profileImage from "../../assets/Images/My-picture.jpg";
 function About() {
 
   return (
-    <section id="about">
-      <img src={profileImage}/>
+    <section className="about-me" id="about">
+      <img src={profileImage} width="400" height="400"/>
       <p>
         Since finishing my undergraduate Marketing degree December 2019, I have excelled in my current sales role within the logistics industry,
         This experience has helped me better understand my strengths and goals, positioning me to redirect my career path to Web Development, 
