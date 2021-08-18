@@ -364,3 +364,15 @@ h2 {
   text-align: center;
   font-size: 40px;
 }
+
+.resume h1 {
+  text-align: center;
+}
+
+.resume h2 {
+  text-align: left;
+}
+
+.resume p {
+  text-align: right;
+}
