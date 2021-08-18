@@ -376,3 +376,12 @@ h2 {
 .resume p {
   text-align: right;
 }
+
+footer ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+footer ul a {
+  font-size: 30px;
+}
