@@ -4,8 +4,14 @@ import Application from "../Application";
 const Portfolio = () => {
   const [applications] = useState([
     {
+      title: "Cloudtronics",
+      link: "https://notetaker-mg.herokuapp.com/",
+      gitHub: "https://github.com/virginia-rabello/cloudtronics",
+      type: "cloudtronics",
+    },
+    {
       title: "Run Buddy",
-      link: "https://marisela-gutierrez.github.io/run-buddy/",
+      link: "https://cloudtronics.herokuapp.com/",
       gitHub: "https://github.com/marisela-gutierrez/run-buddy",
       type: "run-buddy",
     },

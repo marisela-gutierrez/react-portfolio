@@ -140,6 +140,9 @@ header nav ul li a:hover {
   background-image: url(./assets/Images/notetaker.png);
 }
 
+.cloudtronics {
+  background-image: url(./assets/Images/tech.png);
+}
 
 .application:hover {
   -webkit-transform: scale(1.1);
